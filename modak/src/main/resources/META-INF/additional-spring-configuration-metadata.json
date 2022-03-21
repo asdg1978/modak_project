@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "bezkoder.app.jwt-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwt-secret'"
+  },
+  {
+    "name": "spring.datasource.bezkoder.app.jwt-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.bezkoder.app.jwt-secret'"
+  },
+  {
+    "name": "bezkoder.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwtExpirationMs'"
+  },
+  {
+    "name": "spring.jpa.hibernate.current_session_context_class",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.current_session_context_class'"
+  }
+]}

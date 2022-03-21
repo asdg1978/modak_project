@@ -1,0 +1,16 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /modak
+spring:
+  application:
+    name: hulkstore
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/modak
+    username: root
+    password: 123456
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL5Dialect
+    hibernate:
+      ddl-auto: update
